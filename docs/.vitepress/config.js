@@ -1,18 +1,11 @@
 module.exports = {
-  title: '王清diao的一逼',
+  title: 'Basebit工作文档',
   themeConfig: {
     sidebar: [
       {
-        text: 'React',
+        text: '基本信息',
         items: [
-          { text: 'Introduction', link: '/react/introduction' },
-          { text: 'Getting Started', link: '/react/getting-started' },
-        ]
-      },
-      {
-        text: '笔记',
-        items: [
-          { text: '常用命令', link: '/notes/1' },
+          { text: '信息', link: '/notes/1' }
         ]
       }
     ]
